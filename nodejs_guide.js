@@ -29,3 +29,7 @@ input = require("fs").readFileSync("/dev/stdin").toString().trim().split(/\s/);
 n = input[0];
 const n_arr = input.slice(1, n + 1);
 const [m, ...m_arr] = input.slice(n + 1);
+
+// 강의실 배정
+// 수리공 항승
+// 팰린드롬
